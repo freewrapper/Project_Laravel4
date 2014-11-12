@@ -1,4 +1,9 @@
 hello 
 this file give some instraction about how to use the current repository
 
-here i am runing a senariot to make shor that the main fether of gethub are basicly handled 
+here i'am runing a senariot to make shor that the main fether of gethub are basicly handled 
+
+
+
+second entrie 
+this is my second test
